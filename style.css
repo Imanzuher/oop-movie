@@ -55,3 +55,33 @@
   color: white;
   border: 1px white solid;
 }
+#footer {
+  background-color: #d6c4f8;
+  border-top: 4px solid #573497;
+  border-bottom: 4px solid #573497;
+  padding-bottom: 15px;
+}
+#footer h2 {
+  color: #573497;
+  margin-left: 100px;
+}
+.member .socials {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+.member h5 {
+  font-size: 25px;
+}
+.devider {
+  width: 1000px;
+  margin-left: 90px;
+  background-color: #573497;
+  height: 2px;
+  margin-bottom: 40px;
+}
+.member .socials a {
+  color: #573497;
+  font-size: 20px;
+  font-weight: 700;
+}
